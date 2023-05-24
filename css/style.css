@@ -1,0 +1,31 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url(../images/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+}
+
+.container1 {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 450px;
+  height: auto;
+}
+.topLogo {
+  width: 180px;
+}
+.questiontext {
+  margin: 8px 0px;
+}
+
+/*# sourceMappingURL=style.css.map */
